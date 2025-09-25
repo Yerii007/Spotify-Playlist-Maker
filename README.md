@@ -8,12 +8,6 @@ Create a Spotify playlist automatically from the Billboard Hot 100 chart for any
 - Creates a new Spotify playlist and adds the matched tracks.
 
 
-## 📸 Demo
-
-<!-- Replace these with your own images or GIFs once you have them -->
-![Terminal Demo Screenshot](link-to-your-terminal-screenshot.png)
-![Spotify Playlist Screenshot](link-to-your-spotify-screenshot.png)
-
 ## 📂 Project Structure
 ```
 main.py                  # Entry point of the app
